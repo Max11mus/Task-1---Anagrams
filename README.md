@@ -6,3 +6,4 @@ E.g. "abcd efgh" => "dcba hgfe"
 All non-letter symbols should stay on the same places:
 E.g. "a1bcd efg!h" => "d1cba hgf!e"
 Use Latin alpha
+
